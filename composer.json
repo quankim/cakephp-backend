@@ -1,7 +1,7 @@
 {
-    "name": "cakephp/app",
-    "description": "CakePHP skeleton app",
-    "homepage": "http://cakephp.org",
+    "name": "quankim/cakephp-backend",
+    "description": "CakePHP skeleton app for server backend",
+    "homepage": "https://github.com/quankim/cakephp-backend",
     "type": "project",
     "license": "MIT",
     "require": {
@@ -12,6 +12,13 @@
         "cakephp/plugin-installer": "*",
         "quankim/cakephp-jwt-auth": "@dev"
     },
+    "authors": [
+        {
+            "name":"QuanKim",
+            "role":"Author",
+            "homepage":"https://github.com/quankim"
+        }
+    ],
     "require-dev": {
         "psy/psysh": "@stable",
         "cakephp/debug_kit": "~3.2",
