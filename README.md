@@ -1,4 +1,4 @@
-# cakephp-backend created by QuanKim
+# CakePHP Backend created by QuanKim
 
 ## CakePHP Application Skeleton For Backend Server
 
