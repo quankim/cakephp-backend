@@ -1,0 +1,2 @@
+msgid "Invalid email or password"
+msgstr "メールアドレスまたはパスワードが正しくありません。"

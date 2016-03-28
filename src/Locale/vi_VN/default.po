@@ -1,0 +1,2 @@
+msgid "Invalid email or password"
+msgstr "Sai username hoac password roi nha"
