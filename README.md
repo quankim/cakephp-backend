@@ -28,5 +28,5 @@ configuration relevant for your application.
 ## Use
 Migration database
 ```sh
-bin/cake migrations migrate users
+bin/cake migrations migrate
 ```
